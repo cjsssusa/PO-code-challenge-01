@@ -1,0 +1,11 @@
+# This is a comment in a .gitignore file
+
+# IDE-specific files 
+.idea/
+.target/
+*.iml
+
+# Build files and directories
+out/
+*.class
+*.jar
