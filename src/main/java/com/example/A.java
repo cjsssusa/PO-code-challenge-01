@@ -14,8 +14,11 @@ public class A {
 //        P3 p3 = new P3();
 //        p3.pb3();
 
-        P4 p4 = new P4();
-        p4.pb4();
+//        P4 p4 = new P4();
+//        p4.pb4();
+
+        P5 p5 = new P5();
+        p5.pb5();
     }
 
 }
